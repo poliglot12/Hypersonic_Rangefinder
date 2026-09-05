@@ -1,7 +1,7 @@
 # Hypersonic_Rangefinder
 
 * Ultrasonic Rangefinding Radar
-*
+
 * Hardware:
 * 1. ESP32 Dev Board
 * 2. HC-SR04 Ultrasonic Sensor
@@ -9,7 +9,7 @@
 * 4. SSD1306 OLED Display
 * 5. Passive Piezo Buzzer
 * 6. LED
-* 
+
 * Behaviour:
 * === Servo sweeps the sensor from 20 to 180 degree and back.
 * === Distance is measured at each position.
