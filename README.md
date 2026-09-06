@@ -18,3 +18,6 @@
 * OLED displays the angle and distance.
 * LED turns on if distance is less than 50 cm.
 * Piezo beeps with frequency inversely proportional to distance.
+
+##Schematic
+!![Ultrasonic Radar Schematic](docs/Ultrasonic_Rangefinder.svg)
